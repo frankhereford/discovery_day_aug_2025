@@ -19,7 +19,7 @@
 
 - Stand up a local Jupyter Notebook and manage using additional libraries
   - Try not to mix technologies (`pip` and `uv`)
-- make it work with beam.ai too
+- make it work with beam.cloud too
 
 ## Pros & Cons
 

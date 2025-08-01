@@ -4,8 +4,8 @@ A day-long exploration of `uv`, the blazing-fast Python package manager and virt
 
 ## 🎯 Exploration Goals
 
-- [ ] Understand what `uv` is and why it's gaining popularity
-- [ ] Install and configure `uv` on the system
+- [x] Understand what `uv` is and why it's gaining popularity
+- [x] Install and configure `uv` on the system
 - [ ] Compare `uv` performance vs traditional tools (pip, poetry, etc.)
 - [ ] Learn core `uv` workflows for project management
 - [ ] Explore Python version management with `uv`

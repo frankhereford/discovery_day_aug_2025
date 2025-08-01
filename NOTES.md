@@ -22,4 +22,4 @@
 ### Pros
 
 - Found all my pre-installed versions of python
--
+- Some black magic with `.git` to ignore the `.venv` but not require a `.gitignore`

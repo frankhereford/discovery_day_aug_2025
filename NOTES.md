@@ -29,3 +29,7 @@
 - Some black magic with `.git` to ignore the `.venv` but not require a `.gitignore`
 - It's so fast
   - `numpy matplotlib seaborn pandas` installed in < 1 second
+
+### Cons
+
+- ??
